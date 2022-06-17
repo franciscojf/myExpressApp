@@ -106,3 +106,5 @@ dist
 # User files
 macminikey
 macminikey.pub
+
+.DS_Store
