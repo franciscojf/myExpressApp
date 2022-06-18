@@ -106,5 +106,7 @@ dist
 # User files
 macminikey
 macminikey.pub
+*-ssh
+*-ssh.pub
 
 .DS_Store
